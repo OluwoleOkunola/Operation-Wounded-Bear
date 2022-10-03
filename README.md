@@ -7,7 +7,7 @@ Mission:
 - Block initial Malware infection
 - Prevent downloading of executables Using an Intrusion Prevention
 - Create alert for infections
-- Remove malware from initially infected machine
+- Remove malware from previously infected machine
 - Find and remove other instances of malware
 
 <br />
