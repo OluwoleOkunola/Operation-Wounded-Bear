@@ -19,7 +19,7 @@ Mission:
 
 <h2>Environments Used </h2>
 
-- <b>Project Ares</b> (Cyber Range)
+- <b>Circadence Project Ares</b> (Cyber Range)
 
 <h2>Program walk-through:</h2>
 
